@@ -1,0 +1,54 @@
+body {
+
+    margin: 0;
+
+}
+
+div {
+
+    background-color: red;
+    padding: 50px;
+
+}
+
+h1 {
+
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    display: block;
+
+}
+
+.sao {
+
+    margin-left: 39%;
+
+}
+
+.instagram {
+
+    margin-left: 5%;
+
+}
+
+a {
+
+    color: black;
+    font-size: 28px;
+
+
+}
+
+img {
+
+    margin-left: 30%;
+
+}
+
+.faixapreta {
+
+    background-color: black;
+    padding: 136px;
+
+}
